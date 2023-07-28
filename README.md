@@ -1,8 +1,8 @@
 # Avionics
 Avionics
 
-This repository is intented to recreate simulation of functionality of avionics glasscockpit.
-It's intend just for learning and not to apply in real life Technologies.
+This repository is intented to recreate simulationfunctionality of avionics glasscockpit.
+It's intend just for learning and not to apply in real life technologies.
 
 
 

@@ -6,6 +6,8 @@ It's intend just for learning and not to apply in real life technologies.
 
 
 
+This is the specifications of inputs and outputs information for an information display for the Aircraft turbofan motors:
+
 
 Input signals:
 

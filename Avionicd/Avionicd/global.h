@@ -18,6 +18,7 @@
 typedef struct global {
     Turbine turbine1;
     Turbine turbine2;
+    Render_State_Internal state;
     
 
 } Global;

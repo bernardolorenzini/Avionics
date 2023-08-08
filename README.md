@@ -8,7 +8,7 @@
 
 Glass Cockpit Display Software Design and Architecture
 
-
+Added HUD file with some symbology. Trying to create objects for each symbolog. Deciding if structs are better for this.
 <h2>Project Overview:</h2>
     <p>
       The glass cockpit display project aims to develop a modern, user-friendly display system for a commercial aircraft, providing real-time information on power levels and the status of the two turbofan motors.
